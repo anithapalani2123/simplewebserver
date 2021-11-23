@@ -94,13 +94,13 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./mywebserver1)
-![CLIENTSIDEOUTPUT](./mywebserver2)
+![CLIENTSIDEOUTPUT](./mywebserver1.png)
+![CLIENTSIDEOUTPUT](./mywebserver2.png)
 
 
 ### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./mywebserver3)
-![SERVERSIDEOUTPUT](./mywebserver4)
+![SERVERSIDEOUTPUT](./mywebserver3.png)
+![SERVERSIDEOUTPUT](./mywebserver4.png)
 
 
 ### SERVER SIDE OUTPUT:
