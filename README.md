@@ -94,13 +94,17 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./mywebserver1.png)
-![CLIENTSIDEOUTPUT](./mywebserver2.png)
+![CLIENTSIDEOUTPUT](./mywebserver1.png)![mywebserver1](https://user-images.githubusercontent.com/94184990/143171979-9c95be33-438f-4501-969e-90625d55bf5e.PNG)
+
+![CLIENTSIDEOUTPUT](./mywebserver2.png)![mywebserver2](https://user-images.githubusercontent.com/94184990/143172005-53854208-4419-4409-ac14-497a66555d6f.PNG)
+
 
 
 ### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./mywebserver3.png)
-![SERVERSIDEOUTPUT](./mywebserver4.png)
+![SERVERSIDEOUTPUT](./mywebserver3.png)![mywebserver3](https://user-images.githubusercontent.com/94184990/143172029-d01fa74e-836f-483a-ab97-caef39f27479.PNG)
+
+![SERVERSIDEOUTPUT](./mywebserver4.png)![mywebserver4](https://user-images.githubusercontent.com/94184990/143172056-57114804-e3c7-4a33-924b-3a1994884032.PNG)
+
 
 
 
