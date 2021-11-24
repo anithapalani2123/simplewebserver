@@ -103,7 +103,7 @@ httpd.serve_forever()
 ![SERVERSIDEOUTPUT](./mywebserver4.png)
 
 
-### SERVER SIDE OUTPUT:
+
 
 
 ## RESULT:
